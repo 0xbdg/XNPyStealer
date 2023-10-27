@@ -1,0 +1,7 @@
+pywin32
+pyside6
+requests
+pyinstaller
+cryptography
+sockets
+psutil
